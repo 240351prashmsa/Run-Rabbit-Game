@@ -10,7 +10,7 @@ int main() {
     std::cout << "Enter operation (+, -, *, /): ";
     std::cin >> operation;
     
-    std::cout << "Enter second number: ";
+    std::cout << "Enter third number: ";
     std::cin >> num2;
     
     switch(operation) {
