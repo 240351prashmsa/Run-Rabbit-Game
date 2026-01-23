@@ -7,7 +7,7 @@ int main() {
     std::cout << "Enter first number: ";
     std::cin >> num1;
     
-    std::cout << "Enter operation (+, -, *, /): ";
+    std::cout << "Enter the operation (+, -, *, /): ";
     std::cin >> operation;
     
     std::cout << "Enter third number: ";
